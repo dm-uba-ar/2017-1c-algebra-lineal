@@ -1,9 +1,5 @@
 # Álgebra Lineal — Primer cuatrimestre de 2017
 
-## Equipo docente
-
-- **Clases teóricas:** Constanza Sánchez Fernández de la Vega
-
 ## Prácticas
 
 - [Práctica 1](AL_2017_1C_prac1.pdf)
